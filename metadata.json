@@ -1,0 +1,6 @@
+{
+  "name": "Flipkart",
+  "description": "Flipkart shopping app with trending products, categories, flash deals, cart management, and order checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
